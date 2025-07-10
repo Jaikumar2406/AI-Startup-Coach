@@ -1,4 +1,4 @@
-readme_content = """
+
 # 🚀 AI Startup Coach
 
 An intelligent startup advisor web app designed to provide real-time, book-based advice to entrepreneurs using Retrieval-Augmented Generation (RAG) and LLMs like Groq's LLaMA-3.
