@@ -8,10 +8,10 @@ from langchain.tools.retriever import create_retriever_tool
 
 load_dotenv()
 
-pine_cone = os.getenv('pine_cone')
-groq = os.getenv('groq')
-hugging_face = os.getenv("hugging_face")
-host_bg = os.getenv('host_bg') 
+pine_cone = os.getenv('PINE_CONE')
+groq = os.getenv('GROQ')
+hugging_face = os.getenv("HUGGING_FACE")
+host_bg = os.getenv('HOST_BG') 
 
 llm = ChatGroq(api_key=groq, temperature=0.5, model="llama-3.3-70b-versatile")
 embedding = HuggingFaceBgeEmbeddings(model_name="BAAI/bge-base-en-v1.5", model_kwargs={"token": hugging_face})
