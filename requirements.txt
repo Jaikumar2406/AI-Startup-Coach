@@ -12,3 +12,5 @@ requests>=2.31.0
 selenium>=4.20.0
 python-dotenv>=1.0.1
 pydantic>=1.10.13
+fastapi
+uvicorn
