@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 
 load_dotenv()
-groq = os.getenv('groq')
+groq = os.getenv('GROQ')
 
 URLS = ["https://devfolio.co/hackathons",]
 def get_page_text(url: str) -> str:
