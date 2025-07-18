@@ -44,7 +44,7 @@ class ChatBot {
 
     async sendMessageToAPI(message) {
         try {
-            const response = await fetch('https://ai-startup-api.onrender.com/generate', {  // `${serverUrl}/generate`
+            const response = await fetch('https://ai-startup-coach-3.onrender.com/generate', {  // `${serverUrl}/generate`
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
