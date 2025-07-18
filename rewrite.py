@@ -8,7 +8,7 @@ from langchain_groq import ChatGroq
 load_dotenv()
 
 
-groq = os.getenv('groq')
+groq = os.getenv('GROQ')
 llm = ChatGroq(api_key=groq, temperature=0.5, model="llama-3.3-70b-versatile")
 
 
