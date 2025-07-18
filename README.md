@@ -28,7 +28,8 @@ AI Startup Coach helps startup founders:
 | AI Agent     |  LangGraph                     |
 ---
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f7a94e3-300f-46c0-b915-02ae4bf8bad0" />
+<img width="1799" height="954" alt="image" src="https://github.com/user-attachments/assets/357bbcb3-0df1-4577-b730-d2b84ce263eb" />
+
 
 
 
