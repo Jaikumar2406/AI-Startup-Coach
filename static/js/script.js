@@ -58,6 +58,7 @@ class ChatBot {
             }
 
             const data = await response.json();
+            console.log("API Response:", data);
             return data.answer || "No answer received.";
         } catch (error) {
             console.error("API call failed:", error);
