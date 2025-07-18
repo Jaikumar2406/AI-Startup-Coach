@@ -28,6 +28,10 @@ AI Startup Coach helps startup founders:
 | AI Agent     |  LangGraph                     |
 ---
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f7a94e3-300f-46c0-b915-02ae4bf8bad0" />
+
+
+
 ## .env file
 groq=your_groq_api_key
 pine_cone=your_pinecone_key
