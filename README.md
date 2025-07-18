@@ -25,7 +25,7 @@ AI Startup Coach helps startup founders:
 | 🎙️ TTS       | gTTS (Google TTS)        |
 | 🌐 Backend   | FastAPI                                 |
 | 💻 Frontend  | JS + HTML/CSS                   |
-
+| AI Agent     |  LangGraph                     |
 ---
 
 ## .env file
